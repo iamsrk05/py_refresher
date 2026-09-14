@@ -1,6 +1,11 @@
-"""Tier 1: Count with range().
+"""Tier 1: Write a program that prints every character in the string:
 
-Print the numbers from 1 through 10, including both 1 and 10.
-Write your solution below using a for loop and range().
+"DATA"
+
+one character per line using a for loop.
 """
 
+tex = "DATA"
+
+for letter in tex:
+    print(letter)

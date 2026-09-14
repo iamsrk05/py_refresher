@@ -3,5 +3,9 @@ __pycache__/
 .venv/
 venv/
 .env
+*.log
 .vscode/
 .idea/
+
+# Local Git automation (never upload this helper)
+git_push.py
