@@ -1,0 +1,20 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Sam",
+            "skills": [
+                "Python",
+                "SQL"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Alex",
+            "skills": [
+                "Pandas",
+                "NumPy"
+            ]
+        }
+    ]
+}
