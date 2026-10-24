@@ -2,6 +2,7 @@
 
 ## 2026-10-25
 
+- Removed the empty, unreferenced root `data.txt` file.
 - Removed two duplicate, unused RSA scratch command files (`h.py` and `09_mixed_practice/scratch.py`).
 - Removed the empty micro-project, interview-question, and coding-challenge placeholder folders and updated references to them.
 - Recorded completion of the Python foundations phase and the move to project-based learning.

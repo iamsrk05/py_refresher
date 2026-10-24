@@ -27,7 +27,7 @@ Completion of the foundations describes the learning phase, not completion of ev
 
 ## Other files
 
-The root `data.txt` and [`tiered_practice/06_tuples/tuples.py`](tiered_practice/06_tuples/tuples.py) are empty; their intended future content is unconfirmed. No content has been invented for them.
+[`tiered_practice/06_tuples/tuples.py`](tiered_practice/06_tuples/tuples.py) is empty; its intended future content is unconfirmed. No content has been invented for it.
 
 The former micro-project, interview-question, and coding-challenge placeholder folders have been removed. Project-based practice is the next phase, with no project recorded as complete here. Local editor settings, logs, bytecode caches, and the ignored `git_push.py` helper are outside the tracked learning material.
 
