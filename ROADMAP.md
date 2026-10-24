@@ -13,4 +13,4 @@ This phase-level milestone does not imply every optional tier or exercise was co
 - [ ] Build and review the project in small steps, documenting what was actually completed.
 - [ ] Add further projects or data-science tools when ready; NumPy is a possible later topic, not a completed milestone.
 
-Existing micro-project, interview-question, and coding-challenge notes are future-practice placeholders. They do not establish completed projects.
+The former micro-project, interview-question, and coding-challenge placeholder folders were removed. No project is recorded as complete yet.

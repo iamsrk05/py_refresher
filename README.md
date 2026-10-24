@@ -29,7 +29,7 @@ Completion of the foundations describes the learning phase, not completion of ev
 
 The root [`h.py`](h.py) and [`tiered_practice/09_mixed_practice/scratch.py`](tiered_practice/09_mixed_practice/scratch.py) contain identical scratch commands and are retained as existing work. The root `data.txt` and [`tiered_practice/06_tuples/tuples.py`](tiered_practice/06_tuples/tuples.py) are empty; their intended future content is unconfirmed. No content has been invented for them.
 
-The [`micro_projects/loops/`](micro_projects/loops/README.md), [`interview_questions/loops/`](interview_questions/loops/README.md), and [`leetcode/loops/`](leetcode/loops/README.md) notes describe future practice and contain no completed solutions. Local editor settings, logs, bytecode caches, and the ignored `git_push.py` helper are outside the tracked learning material.
+The former micro-project, interview-question, and coding-challenge placeholder folders have been removed. Project-based practice is the next phase, with no project recorded as complete here. Local editor settings, logs, bytecode caches, and the ignored `git_push.py` helper are outside the tracked learning material.
 
 ## Known exercise limitations
 
