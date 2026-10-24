@@ -1,46 +1,16 @@
 # Python Refresher Roadmap
 
-## Completed
+## Python foundations — completed October 25, 2026
 
-- [x] Basic syntax, variables, data types, and type casting
-- [x] Input, output, strings, and string methods
-- [x] Operators and operator precedence
-- [x] Comparison and logical operators
-- [x] Conditional statements and validation logic
-- [x] Conditional practice projects 1–9
-- [x] Project 10: Account Security Checker — intentionally skipped
+The refresher covered fundamentals, conditionals, functions, loops, lists, tuples, sets, dictionaries, mixed practice, file handling, JSON, object-oriented programming, list comprehensions, and lambda functions. The 14 numbered folders in [`tiered_practice/`](tiered_practice/) follow that sequence; see [README.md](README.md) for the full folder map.
 
-## Current topic
+This phase-level milestone does not imply every optional tier or exercise was completed. Conditional Project 10 (Account Security Checker) was intentionally skipped, as recorded earlier. Loop Tiers 2–4 have placeholder READMEs, and the tuples exercise file is empty. Those items remain open or unconfirmed rather than being marked complete.
 
-- [ ] Loops in Python
-  - [ ] Why loops exist
-  - [ ] `for` loops
-  - [ ] Iterating through strings
-  - [ ] `range()`
-  - [ ] `while` loops and loop conditions
-  - [ ] `break` and `continue`
-  - [ ] Nested loops
-  - [ ] Common mistakes and infinite loops
-  - [ ] Data Science applications
+## Next phase — project-based learning
 
-## Upcoming topics
+- [ ] Choose a small project that combines several Python foundation topics.
+- [ ] Define its goal, inputs, outputs, and scope before implementation.
+- [ ] Build and review the project in small steps, documenting what was actually completed.
+- [ ] Add further projects or data-science tools when ready; NumPy is a possible later topic, not a completed milestone.
 
-1. Lists and list methods
-2. Tuples and tuple methods
-3. Sets and set methods
-4. Dictionaries and dictionary methods
-5. File handling
-6. JSON module
-7. Object-oriented programming
-8. List comprehensions
-9. Lambda functions
-
-## Practice workflow
-
-For each topic:
-
-1. Complete the lesson and comprehension check.
-2. Solve one practice tier at a time.
-3. Review and improve submitted code.
-4. Attempt a micro project when the fundamentals are strong enough.
-5. Add interview or coding-challenge practice only when appropriate.
+Existing micro-project, interview-question, and coding-challenge notes are future-practice placeholders. They do not establish completed projects.

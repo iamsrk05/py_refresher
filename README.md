@@ -1,41 +1,36 @@
 # Python Refresher
 
-A structured Python refresher following the CodeWithHarry Data Science Job
-Ready course order. Practice grows cumulatively from Python fundamentals toward
-data-analysis and machine-learning preparation.
+Python foundations completed as of October 25, 2026. This repository keeps the original exercises and examples in learning order. The next phase is project-based practice that combines these topics; no new project is recorded as complete here.
 
-## Current focus
+## Learning folders
 
-**Loops in Python**
+The numbered folders are under [`tiered_practice/`](tiered_practice/):
 
-- Why loops exist
-- `for` loops
-- Iterating through strings
-- `range()`
-- `while` loops
-- `break` and `continue`
-- Nested loops
-- Common mistakes and infinite loops
+| Folder | Topic |
+| --- | --- |
+| `01_fundamentals` | Fundamentals note; no separate exercise files |
+| `02_conditionals` | Conditionals and validation |
+| `03_functions` | Functions |
+| `04_loops` | Loops and tiered practice |
+| `05_lists` | Lists |
+| `06_tuples` | Tuples; empty exercise placeholder |
+| `07_sets` | Sets |
+| `08_dictionaries` | Dictionaries |
+| `09_mixed_practice` | Combined exercises and scratch work |
+| `10_file_handling` | File handling and sample data |
+| `11_json` | JSON and sample data |
+| `12_oop` | Object-oriented programming |
+| `13_list_comprehensions` | List comprehensions |
+| `14_lambda` | Lambda functions |
 
-NumPy begins only after the Python refresher is complete.
+Completion of the foundations describes the learning phase, not completion of every optional tier or exercise file. The loop Tier 2–4 READMEs remain placeholders. See [ROADMAP.md](ROADMAP.md) for the next phase and [CHANGELOG.md](CHANGELOG.md) for dated changes.
 
-## Repository structure
+## Other files
 
-```text
-lessons/                 Topic notes and tutorial examples
-tiered_practice/         Exercises organized from Tier 1 to Tier 4
-micro_projects/          Larger cumulative practice projects
-interview_questions/     Interview-style questions by topic
-leetcode/                Relevant coding-challenge practice
-```
+The root [`h.py`](h.py) and [`tiered_practice/09_mixed_practice/scratch.py`](tiered_practice/09_mixed_practice/scratch.py) contain identical scratch commands and are retained as existing work. The root `data.txt` and [`tiered_practice/06_tuples/tuples.py`](tiered_practice/06_tuples/tuples.py) are empty; their intended future content is unconfirmed. No content has been invented for them.
 
-Each new topic reuses previously learned concepts rather than treating skills
-in isolation.
+The [`micro_projects/loops/`](micro_projects/loops/README.md), [`interview_questions/loops/`](interview_questions/loops/README.md), and [`leetcode/loops/`](leetcode/loops/README.md) notes describe future practice and contain no completed solutions. Local editor settings, logs, bytecode caches, and the ignored `git_push.py` helper are outside the tracked learning material.
 
-## Progress
+## Known exercise limitations
 
-- Python fundamentals: complete
-- Conditional statements: complete
-- Loops: in progress
-
-See [ROADMAP.md](ROADMAP.md) for the complete learning sequence.
+Some file-handling and JSON examples still refer to their former unnumbered paths. They were left byte-for-byte intact, so run them from an appropriate location or update their paths in a later code-focused pass. `03_functions/main.py` contains an existing syntax error; the scratch files are shell commands with `.py` names, not runnable Python. These are preserved as written.
